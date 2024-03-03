@@ -1,1 +1,1 @@
-# Admission-Portal
+I implementedauser-friendly website featuring a registration form for students.Additionally, I integrated an admin panel enabling login, student management functionalities (add, search, delete, print,and display records) for efficient administration.(JAVA,HTML5,CSS,JDBC,JSP).
