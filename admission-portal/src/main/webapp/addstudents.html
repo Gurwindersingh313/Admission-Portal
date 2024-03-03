@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+     <link rel="stylesheet" href="addstudents.css">
+    <title>Student Registration Form</title>
+    
+   
+</head>
+
+<body>
+
+    <div>
+        <form action="addstudents.jsp">
+            <h2>Student Registration Form</h2>
+
+            <!-- Input elements for form -->
+            <label><b>Set Unique Id</b></label>
+            <input type="text" placeholder="Unique Id" name="uid" required>
+
+            <label><b>Enter Name</b></label>
+            <input type="text" placeholder="Enter name" name="name" required>
+
+            <label><b>E-mail</b></label>
+            <input type="email" placeholder="Enter your e-mail" name="email" required>
+
+            <label><b>Date of Birth</b></label>
+            <input type="date" name="dob" required>
+
+            <label><b>Gender</b></label>
+            <input type="text" placeholder="Gender" name="gender" required>
+
+            <label><b>Course</b></label><br>
+
+            <input type="checkbox" name="course" value="java">JAVA<br>
+            <input type="checkbox" name="course" value="php">PHP<br>
+            <input type="checkbox" name="course" value="python">PYTHON<br>
+
+            <label><b>Duration</b></label>
+            <input type="text" placeholder="Duration" name="duration" required>
+
+            <input type="submit" value="Register" />
+        </form>
+    </div>
+</body>
+
+</html>
