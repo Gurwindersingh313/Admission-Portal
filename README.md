@@ -2,11 +2,11 @@ Admission Portal
 The Admission Portal is a web application designed to manage student admissions efficiently. It offers a user-friendly interface for students to register and a powerful admin panel for administrators to manage student data. The system is built using Java, HTML5, CSS, JDBC, and JSP to create a seamless experience for both students and administrators.
 
 Technologies Used:
-Java: The core programming language used for the backend logic and business processing.
-HTML5: For building the structure and layout of the web pages.
-CSS: To style the website and make it visually appealing and responsive.
-JDBC (Java Database Connectivity): For connecting and interacting with the database.
-JSP (JavaServer Pages): To create dynamic web pages by embedding Java code in HTML.
+1.Java: The core programming language used for the backend logic and business processing.
+2.HTML5: For building the structure and layout of the web pages.
+3.CSS: To style the website and make it visually appealing and responsive.
+4.JDBC (Java Database Connectivity): For connecting and interacting with the database.
+5.JSP (JavaServer Pages): To create dynamic web pages by embedding Java code in HTML.
 
 
 Features
